@@ -1,6 +1,14 @@
 
 ![](https://user-images.githubusercontent.com/99373782/153359082-9891c2f8-69f4-4258-83f0-c5dfbe69ace3.png)
 
+## 1.3  Ejercicios de C++ para mediar al grupo vía GitHub Classroom 
+
+
+
+
+
+
+
 
 
 # :wave: The Basics of GitHub 
